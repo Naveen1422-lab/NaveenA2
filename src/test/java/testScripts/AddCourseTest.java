@@ -13,6 +13,8 @@ public class AddCourseTest extends BaseClass {
 
 	@Test
 
+	//This method is Verifies add course list
+
 	public void addCourseTest() {
 
 		SoftAssert soft = new SoftAssert();
