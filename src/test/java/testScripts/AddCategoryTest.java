@@ -9,6 +9,8 @@ import genericUtilities.BaseClass;
 import genericUtilities.IConstatntpath;
 
 public class AddCategoryTest extends BaseClass {
+	
+	//This Method is Selenium Script
 	@Test
 	public void addCategoryTest() {
 
